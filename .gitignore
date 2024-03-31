@@ -16,6 +16,7 @@ target/
 .target
 *.target
 .iml
+.idea/
 
 ### Eclipse ###
 .apt_generated
